@@ -3,5 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+How To Get Holy Water
+How do you make holy water? You boil the hell out of it
 :P
